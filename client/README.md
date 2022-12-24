@@ -40,3 +40,6 @@ We will also be using the ChartJS to display the charts.Chart.js is a free, open
 
 **UUID:**
 UUID stands for Universal Unique Identifier. It is a 128 bit number which is used to unqiuely identify some object on Internet. 
+
+
+https://coolors.co/fcecc9-fcb0b3-f93943-7eb2dd-445e93 = Color Theme
